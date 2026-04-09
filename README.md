@@ -1,7 +1,3 @@
-🧠 GitHub README (Use This)
-
-Copy-paste this into your README.md:
-
 🔐 Quantum Key Distribution (BB84 Protocol Simulation)
 
 A Python-based simulation of the BB84 Quantum Key Distribution protocol, demonstrating how quantum mechanics enables secure communication and detects eavesdropping.
